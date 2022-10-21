@@ -1,0 +1,72 @@
+[
+ {
+   "code": "MATH1001",
+   "title": "MATH 1A",
+   "credit_point": 6
+ },
+ {
+   "code": "MATH1002",
+   "title": "MATH 1B",
+   "credit_point": 6
+ },
+ {
+   "code": "INFO1001",
+   "title": "Programming 1A",
+   "credit_point": 6
+ },
+ {
+   "code": "INFO1002",
+   "title": "Programming 1B",
+   "credit_point": 6
+ },
+ {
+   "code": "COMP1003",
+   "title": "Computer Architecture",
+   "credit_point": 6
+ },
+ {
+   "code": "COMP2001",
+   "title": "Data Structures",
+   "credit_point": 6
+ },
+ {
+   "code": "COMP2002",
+   "title": "Computer Networks",
+   "credit_point": 6
+ },
+ {
+   "code": "COMP2003",
+   "title": "Database Management Systems",
+   "credit_point": 6
+ },
+ {
+   "code": "COMP2004",
+   "title": "Software Engineering",
+   "credit_point": 6
+ },
+ {
+   "code": "COMP3001",
+   "title": "Operating Systems",
+   "credit_point": 6
+ },
+ {
+   "code": "COMP3002",
+   "title": " Algorithms",
+   "credit_point": 6
+ },
+ {
+   "code": "COMP3003",
+   "title": "Cybersecurity",
+   "credit_point": 6
+ },
+ {
+   "code": "COMP3004",
+   "title": "Data Mining",
+   "credit_point": 6
+ },
+ {
+   "code": "INFO3000",
+   "title": "Capstone Project",
+   "credit_point": 12
+ }
+]
